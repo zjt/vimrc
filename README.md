@@ -308,4 +308,3 @@ Do following:
 * Remove `~/.vim_runtime`
 * Remove any lines that refernce `.vim_runtime` in your `~/.vimrc`
 
-
